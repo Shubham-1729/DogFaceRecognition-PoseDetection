@@ -109,15 +109,21 @@ Before running the project, ensure you have the following installed:
   git lfs track '*.pt'
   ```
 
+<<<<<<< HEAD
 ## License
 
 This project is licensed under the MIT License.
 
+=======
+>>>>>>> ab0962b (Added readme file)
 ## Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [PyTorch](https://pytorch.org/)
 - [LabelImg](https://github.com/tzutalin/labelImg)
 
+<<<<<<< HEAD
 Feel free to contribute to this project by opening issues or submitting pull requests!
 
+=======
+>>>>>>> ab0962b (Added readme file)
