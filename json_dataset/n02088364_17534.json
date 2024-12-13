@@ -1,0 +1,101 @@
+{
+  "version": "2.0",
+  "schema_ref": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/2.0/schema.json",
+  "item": {
+    "name": "n02088364_17534.jpg",
+    "path": "/",
+    "source_info": {
+      "item_id": "0193bac0-3e81-71b4-2906-9adfea8c0008",
+      "team": {
+        "name": "hawkjack",
+        "slug": "hawkjack"
+      },
+      "dataset": {
+        "name": "Dataset_DFD",
+        "slug": "dataset_dfd",
+        "dataset_management_url": "https://darwin.v7labs.com/datasets/1522913/dataset-management"
+      },
+      "workview_url": "https://darwin.v7labs.com/workview?dataset=1522913&item=0193bac0-3e81-71b4-2906-9adfea8c0008"
+    },
+    "slots": [
+      {
+        "type": "image",
+        "slot_name": "0",
+        "width": 500,
+        "height": 375,
+        "thumbnail_url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/files/885b3b23-c6b1-45dd-8511-63f9be988e40/thumbnail",
+        "source_files": [
+          {
+            "file_name": "n02088364_17534.jpg",
+            "url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/uploads/1480718e-0482-479e-a1a4-48549c35c00f"
+          }
+        ]
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 78.7214,
+        "w": 95.8969,
+        "x": 272.6622,
+        "y": 191.3168
+      },
+      "id": "e5e30f5a-d0b7-4027-840c-26b97ab27d56",
+      "name": "Face",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "b5b5a97d-f411-43f0-bf46-29796e2086a2",
+      "keypoint": {
+        "x": 328.4828,
+        "y": 208.0153
+      },
+      "name": "Left-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "c9694e93-8284-42b8-9f2f-9ced68e94ade",
+      "keypoint": {
+        "x": 347.0897,
+        "y": 226.145
+      },
+      "name": "Nose",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "bd98b861-e1f4-4bdb-a1e5-b18aed955554",
+      "keypoint": {
+        "x": 309.3989,
+        "y": 228.0534
+      },
+      "name": "Right-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "3655ff0a-1c93-4ca8-aa56-ae738615653f",
+      "keypoint": {
+        "x": 281.7271,
+        "y": 232.3473
+      },
+      "name": "Right-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,113 @@
+{
+  "version": "2.0",
+  "schema_ref": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/2.0/schema.json",
+  "item": {
+    "name": "n02088364_4823.jpg",
+    "path": "/",
+    "source_info": {
+      "item_id": "0193bac0-3e80-ad14-512f-cfc12192ce25",
+      "team": {
+        "name": "hawkjack",
+        "slug": "hawkjack"
+      },
+      "dataset": {
+        "name": "Dataset_DFD",
+        "slug": "dataset_dfd",
+        "dataset_management_url": "https://darwin.v7labs.com/datasets/1522913/dataset-management"
+      },
+      "workview_url": "https://darwin.v7labs.com/workview?dataset=1522913&item=0193bac0-3e80-ad14-512f-cfc12192ce25"
+    },
+    "slots": [
+      {
+        "type": "image",
+        "slot_name": "0",
+        "width": 500,
+        "height": 333,
+        "thumbnail_url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/files/e2dbb3f5-58a2-480e-9c6a-ea2d93d96de6/thumbnail",
+        "source_files": [
+          {
+            "file_name": "n02088364_4823.jpg",
+            "url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/uploads/78f72deb-a137-4d2e-afd8-c267dbe1f6f2"
+          }
+        ]
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 144.8931,
+        "w": 140.6565,
+        "x": 132.4332,
+        "y": 141.5038
+      },
+      "id": "483f2ba0-d242-4375-8313-681d72adc759",
+      "name": "Face",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "0f1ae160-1b51-4e16-8814-1b85ca30a3ac",
+      "keypoint": {
+        "x": 255.2958,
+        "y": 155.4847
+      },
+      "name": "Left-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "f598c36b-1e97-4117-94df-fad02d9d1a77",
+      "keypoint": {
+        "x": 206.1508,
+        "y": 212.6794
+      },
+      "name": "Left-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "3594b888-ef57-46b1-bc16-7b4c25812425",
+      "keypoint": {
+        "x": 144.7195,
+        "y": 261.4008
+      },
+      "name": "Nose",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "f90df9c3-29f7-47ce-9010-ad948e0a27b0",
+      "keypoint": {
+        "x": 162.937,
+        "y": 163.5344
+      },
+      "name": "Right-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "c5798173-537e-4eed-b6a9-e7e910bdf709",
+      "keypoint": {
+        "x": 156.5821,
+        "y": 212.6794
+      },
+      "name": "Right-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    }
+  ],
+  "properties": []
+}

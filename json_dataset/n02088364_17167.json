@@ -1,0 +1,187 @@
+{
+  "version": "2.0",
+  "schema_ref": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/2.0/schema.json",
+  "item": {
+    "name": "n02088364_17167.jpg",
+    "path": "/",
+    "source_info": {
+      "item_id": "0193bac0-3e81-7e0a-a7a6-246efe929353",
+      "team": {
+        "name": "hawkjack",
+        "slug": "hawkjack"
+      },
+      "dataset": {
+        "name": "Dataset_DFD",
+        "slug": "dataset_dfd",
+        "dataset_management_url": "https://darwin.v7labs.com/datasets/1522913/dataset-management"
+      },
+      "workview_url": "https://darwin.v7labs.com/workview?dataset=1522913&item=0193bac0-3e81-7e0a-a7a6-246efe929353"
+    },
+    "slots": [
+      {
+        "type": "image",
+        "slot_name": "0",
+        "width": 500,
+        "height": 332,
+        "thumbnail_url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/files/72de2f41-3a2a-47b6-9659-bfb197901b5c/thumbnail",
+        "source_files": [
+          {
+            "file_name": "n02088364_17167.jpg",
+            "url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/uploads/e0bc8404-e994-4247-b413-3fce9065d0c7"
+          }
+        ]
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 186.2748,
+        "w": 161.7761,
+        "x": 139.5445,
+        "y": 98.8397
+      },
+      "id": "392139ac-42bf-4865-8234-5ec339a02ba6",
+      "name": "Face",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "7bf88c38-63f2-49d0-947c-dcc2df4fd302",
+      "keypoint": {
+        "x": 281.8906,
+        "y": 139.8117
+      },
+      "name": "Left-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "40b906a4-5510-4d16-88f9-12d21310829a",
+      "keypoint": {
+        "x": 228.6692,
+        "y": 190.4987
+      },
+      "name": "Left-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "952d3500-e6b0-4b5b-8d69-ada28f4913a4",
+      "keypoint": {
+        "x": 180.0941,
+        "y": 261.4606
+      },
+      "name": "Nose",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "79620ca2-9faf-41d8-973c-1faf9a3a3d6d",
+      "keypoint": {
+        "x": 158.5522,
+        "y": 136.855
+      },
+      "name": "Right-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "845d5e23-84f3-4f8c-bbbd-b61301dac4d6",
+      "keypoint": {
+        "x": 169.9567,
+        "y": 185.8524
+      },
+      "name": "Left-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "bounding_box": {
+        "h": 190.0414,
+        "w": 196.5287,
+        "x": 139.1425,
+        "y": 85.4805
+      },
+      "id": "13b42504-f8a7-4d76-a3c4-be61f8f042c3",
+      "name": "Face",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "aa6c212f-35d6-4cdc-9fa4-fec1a3e31824",
+      "keypoint": {
+        "x": 233.0184,
+        "y": 189.2782
+      },
+      "name": "Left-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "665fc0ba-6bd5-40f9-86c2-b438242d6792",
+      "keypoint": {
+        "x": 171.5793,
+        "y": 186.6069
+      },
+      "name": "Right-Eye",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "331214a0-961e-4daa-b4ba-2205fd1b06a5",
+      "keypoint": {
+        "x": 164.7103,
+        "y": 135.4713
+      },
+      "name": "Right-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "618ecae7-f4f8-45b0-a464-3f8d6883d557",
+      "keypoint": {
+        "x": 181.8828,
+        "y": 262.1655
+      },
+      "name": "Nose",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    },
+    {
+      "id": "4f6484c8-9d7b-4ee3-a459-60db63b74e93",
+      "keypoint": {
+        "x": 274.9954,
+        "y": 147.3011
+      },
+      "name": "Left-Ear",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    }
+  ],
+  "properties": []
+}

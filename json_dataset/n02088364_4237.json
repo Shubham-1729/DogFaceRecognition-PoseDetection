@@ -1,0 +1,53 @@
+{
+  "version": "2.0",
+  "schema_ref": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/2.0/schema.json",
+  "item": {
+    "name": "n02088364_4237.jpg",
+    "path": "/",
+    "source_info": {
+      "item_id": "0193bac0-3e80-5f8e-c476-12fdd2bda940",
+      "team": {
+        "name": "hawkjack",
+        "slug": "hawkjack"
+      },
+      "dataset": {
+        "name": "Dataset_DFD",
+        "slug": "dataset_dfd",
+        "dataset_management_url": "https://darwin.v7labs.com/datasets/1522913/dataset-management"
+      },
+      "workview_url": "https://darwin.v7labs.com/workview?dataset=1522913&item=0193bac0-3e80-5f8e-c476-12fdd2bda940"
+    },
+    "slots": [
+      {
+        "type": "image",
+        "slot_name": "0",
+        "width": 500,
+        "height": 375,
+        "thumbnail_url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/files/242566a0-2209-47a0-8803-698344092fbc/thumbnail",
+        "source_files": [
+          {
+            "file_name": "n02088364_4237.jpg",
+            "url": "https://darwin.v7labs.com/api/v2/teams/hawkjack/uploads/7fd11636-8a86-4a4d-9d81-5e178d11d794"
+          }
+        ]
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 95.2586,
+        "w": 96.9828,
+        "x": 226.0776,
+        "y": 121.5517
+      },
+      "id": "8eed6890-dee1-44de-99d1-9c97652f7ba0",
+      "name": "Face",
+      "properties": [],
+      "slot_names": [
+        "0"
+      ]
+    }
+  ],
+  "properties": []
+}

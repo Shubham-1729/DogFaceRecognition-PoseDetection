@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "schema_ref": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/metadata/1.0/schema.json",
+  "classes": [
+    {
+      "name": "Face",
+      "type": "bounding_box",
+      "description": null,
+      "color": "rgba(82,255,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    },
+    {
+      "name": "Left-Ear",
+      "type": "keypoint",
+      "description": null,
+      "color": "rgba(255,46,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    },
+    {
+      "name": "Left-Eye",
+      "type": "keypoint",
+      "description": null,
+      "color": "rgba(255,245,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    },
+    {
+      "name": "Nose",
+      "type": "keypoint",
+      "description": null,
+      "color": "rgba(0,102,255,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    },
+    {
+      "name": "Right-Ear",
+      "type": "keypoint",
+      "description": null,
+      "color": "rgba(219,0,255,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    },
+    {
+      "name": "Right-Eye",
+      "type": "keypoint",
+      "description": null,
+      "color": "rgba(0,194,255,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": [],
+      "sub_types_settings": {
+        "inference": {}
+      }
+    }
+  ],
+  "properties": []
+}
