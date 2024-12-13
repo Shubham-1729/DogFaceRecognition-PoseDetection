@@ -1,0 +1,6 @@
+Dog Face
+Left Ear
+Right Ear
+Left Eye
+Nose
+Right Eye

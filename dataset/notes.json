@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Dog Face"
+    },
+    {
+      "id": 1,
+      "name": "Left Ear"
+    },
+    {
+      "id": 2,
+      "name": "Left Eye"
+    },
+    {
+      "id": 3,
+      "name": "Nose"
+    },
+    {
+      "id": 4,
+      "name": "Right Ear"
+    },
+    {
+      "id": 5,
+      "name": "Right Eye"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

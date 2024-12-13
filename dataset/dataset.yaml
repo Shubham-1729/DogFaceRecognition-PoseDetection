@@ -1,0 +1,10 @@
+path: /home/shubham/Desktop/ogmenProject/DogFaceAndPoseEstimation/dataset/
+train: images/train
+val: images/val
+
+nc: 1
+names: ['Dog Face']
+kpt_shape: [5, 2]
+# flip_idx: [0, 2, 1, 4, 3]
+
+
